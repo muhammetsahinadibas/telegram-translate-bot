@@ -11,6 +11,10 @@ Libraries:
 
 ------------------------------------------------------------------------------
 
+bot = telebot.TeleBot(" ") # Enter Telegram bot key !!
+
+------------------------------------------------------------------------------
+
 - Developer: Muhammet Sahin Adibas
 - Twitter: twitter.com/muhammetadibas 
 - Blog: muhammetsahinadibas.com.tr
