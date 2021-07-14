@@ -6,8 +6,8 @@ Telegram "English to Turkish" and "Turkish to English" translate bot
 
 Libraries:
 
---> import telebot
---> from googletrans import Translator
+1) import telebot
+2) from googletrans import Translator
 
 ------------------------------------------------------------------------------
 
